@@ -5,6 +5,6 @@
 makes it easier for you to travel from home/other places that have been set.
 
 Example :
-![](example.png?raw=true)
+![](thumbnail.png?raw=true)
 
 <a href="https://GMCStudio.ddna.net/">Download here !</a>
