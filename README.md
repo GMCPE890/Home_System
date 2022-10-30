@@ -1,4 +1,4 @@
-Ko# [GMC] Home System
+# [GMC] Home System
 
 ![](pack_icon.png?raw=true)
 
