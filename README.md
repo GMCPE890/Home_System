@@ -8,3 +8,5 @@ Example :
 ![](thumbnail.png?raw=true)
 
 <p align="center"><a href="https://GMCStudio.ddna.net/">Download here !</a></p>
+
+<p align="center">©Copyright By GMCStudio</p>
