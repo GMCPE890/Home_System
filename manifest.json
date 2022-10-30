@@ -1,0 +1,37 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "[GMC] Home System",
+		"description": "makes it easier for you to travel from home/other places that have been set.\n\n§e<———————§f[ §lGMCStudio§r §f]§e———————>\n§e| Creator §8: §fGMCPE.\n§e| §4YouTube §8: §fGMCPE890.\n§e|       §f§l©Copyright By GMCStudio§r\n§e<—————————————————————>§r",
+		"uuid": "e7897222-f405-41b8-993a-08016744821c",
+		"min_engine_version": [1, 19, 40],
+		"version": [1, 0, 0]
+	},
+	"modules": [
+		{
+			"description": "Behavior Pack",
+			"type": "data",
+			"uuid": "7762feef-377e-484c-989c-be02bf12cf3a",
+			"version": [1, 0, 0]
+		},
+		{
+			"description": "Scripts",
+			"type": "script",
+			"language": "javascript",
+			"entry": "scripts/Main.js",
+			"uuid": "41cca9cb-9fba-4649-b964-15cc2054c140",
+			"version": [1, 0, 0]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "b26a4d4c-afdf-4690-88f8-931846312678",
+			"version": "1.0.0-beta"
+		}
+  ],
+  "metadata": {
+    "authors": ["GMCPE890"],
+    "license": "MIT",
+    "url": "http://gmcstudio.ddns.net"
+  }
+}
