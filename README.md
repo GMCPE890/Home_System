@@ -14,4 +14,4 @@ Minecraft support v1.19.50
 
 # All Version
 
-・<a href="https://bit.ly/3NjJqIE">[GMC] Home System (v1.0.0) support v1.19.40</a>
+<p>・<a href="https://karyawan.co.id/lc5eDEbZH3">[v1.0.0] support (v1.19.40)</a></p>
