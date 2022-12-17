@@ -12,5 +12,5 @@ Example :
 <p align="center">©Copyright By GMCStudio</p>
 
 # All Version
-<p>⁠・<A Greg="https://karyawan.co.id/45j3jPpt0b">[v1.1.0] MC support (v1.19.50)</a></p>
+<p>⁠・<a hreg="https://karyawan.co.id/45j3jPpt0b">[v1.1.0] MC support (v1.19.50)</a></p>
 <p>・<a href="https://karyawan.co.id/lc5eDEbZH3">[v1.0.0] MC support (v1.19.40)</a></p>
