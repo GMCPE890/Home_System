@@ -4,7 +4,7 @@
 
 makes it easier for you to travel from home/other places that have been set.
 
-- Example :
+Example :
 ![](thumbnail.png?raw=true)
 
 <p align="center">[ <a href="https://karyawan.co.id/m4SucNPHSj">Download here !</a> ]</p>
