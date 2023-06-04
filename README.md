@@ -1,4 +1,4 @@
-# [GMCPE890] Home System
+# Home System
 
 ![](pack_icon.png?raw=true)
 
